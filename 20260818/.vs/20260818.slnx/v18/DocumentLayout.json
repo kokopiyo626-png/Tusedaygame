@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Mole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Mole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Mole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Mole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Camra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Camra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Camra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A921E601-3DE4-4489-B64C-3F322308504B}|20260818.vcxproj|solutionrelative:Camra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:02:08.255Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:10:16.929Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:05:37.981Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:05:54.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:22:04.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\UI.h",
+              "RelativeDocumentMoniker": "UI.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\UI.h",
+              "RelativeToolTip": "UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:07:36.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stage.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Stage.cpp",
+              "RelativeDocumentMoniker": "Stage.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Stage.cpp",
+              "RelativeToolTip": "Stage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:08:40.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stage.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Stage.h",
+              "RelativeDocumentMoniker": "Stage.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Stage.h",
+              "RelativeToolTip": "Stage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:06:10.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Collision.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Collision.cpp",
+              "RelativeDocumentMoniker": "Collision.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Collision.cpp",
+              "RelativeToolTip": "Collision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:08:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Collision.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Collision.h",
+              "RelativeDocumentMoniker": "Collision.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Collision.h",
+              "RelativeToolTip": "Collision.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:07:26.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Camra.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Camra.cpp",
+              "RelativeDocumentMoniker": "Camra.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Camra.cpp",
+              "RelativeToolTip": "Camra.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:07:58.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Camra.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Camra.h",
+              "RelativeDocumentMoniker": "Camra.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Camra.h",
+              "RelativeToolTip": "Camra.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:06:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\UI.cpp",
+              "RelativeDocumentMoniker": "UI.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\UI.cpp",
+              "RelativeToolTip": "UI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:10:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mole.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Mole.cpp",
+              "RelativeDocumentMoniker": "Mole.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Mole.cpp",
+              "RelativeToolTip": "Mole.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T10:28:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mole.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Mole.h",
+              "RelativeDocumentMoniker": "Mole.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Tusedaygame\\20260818\\Mole.h",
+              "RelativeToolTip": "Mole.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T10:28:36.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
