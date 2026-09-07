@@ -70,7 +70,7 @@ void Stage::Draw()
 {
     for (int i = 0; i < STAGE_MODEL_NUM; i++)
     {
-        if (modelHandle[i] == -1)
+        if (modelHandle[i] != -1)
         {
             MV1DrawModel(modelHandle[i]);
             //return;

@@ -1,5 +1,8 @@
 #include "DxLib.h"
 #include "Stage.h"
+#include "Object3D.h"
+#include "Player.h"
+#include "Collision.h"
 
 const int WINDOW_WIDTH = 1280;
 const int WINDOW_HEIGHT = 720;
@@ -35,10 +38,22 @@ int WINAPI WinMain(HINSTANCE hInstanse, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	}
 	
 	//-----------------------------------
+	//3Dオブジェクトを作成
+	//-----------------------------------
+
+	Object3D object;
+
+	if (!object.Load("Stage/Stage_Obj001.mv1", 100.0f))
+	{
+		DxLib_End();
+		return -1;
+	}
+	
+	//-----------------------------------
     //カメラ
     //-----------------------------------
 
-	VECTOR cameraPos = VGet(500.0f, 3000.0f, -500.0f);
+	VECTOR cameraPos = VGet(500.0f, 3000.0f, -100.0f);
 	VECTOR cameraTarget = VGet(500.0f, 0.0f, 500.0f);
 
 	SetCameraPositionAndTarget_UpVecY(cameraPos, cameraTarget);
@@ -52,6 +67,11 @@ int WINAPI WinMain(HINSTANCE hInstanse, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		ClearDrawScreen();
 		//ステージ描写
 		stage.Draw();
+		//
+		
+		// 3Dオブジェクト描画
+		object.Draw();
+		
 		//裏画面を表画面へ
 		ScreenFlip();
 	}
