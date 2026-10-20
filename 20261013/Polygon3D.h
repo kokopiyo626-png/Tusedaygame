@@ -1,7 +1,7 @@
 #pragma once
 #include "Vector3D.h"
 
-class Polygon
+class Polygon3D
 {
 private:
 	Vector3 a;

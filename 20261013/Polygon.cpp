@@ -1,4 +1,4 @@
-#include "Polygon.h"
+#include "Polygon3D.h"
 #include "DxLib.h"
 
 //DxLibのVECTORに変換
@@ -7,7 +7,7 @@ static VECTOR ToDxVector(Vector3 v)
 	return VGet(v.x, v.y, v.z);
 }
 
-void Polygon::Init() 
+void Polygon3D::Init() 
 {
 	//Y=0の表面上に三角形を配置
 	a = { -150.0f,0.0f,100.0f };
@@ -15,7 +15,7 @@ void Polygon::Init()
 	c = { 150.0f,0.0f,100.0f };
 }
 
-void Polygon::Draw() const 
+void Polygon3D::Draw() const 
 {
 	VERTEX3D vertices[3] = {};
 
@@ -46,11 +46,11 @@ void Polygon::Draw() const
 }
 
 //頂点取得
-Vector3 Polygon::GetA() const { return a; }
-Vector3 Polygon::GetB() const { return b; }
-Vector3 Polygon::GetC() const { return c; }
+Vector3 Polygon3D::GetA() const { return a; }
+Vector3 Polygon3D::GetB() const { return b; }
+Vector3 Polygon3D::GetC() const { return c; }
 
-Vector3 Polygon::GetNormal() const 
+Vector3 Polygon3D::GetNormal() const 
 {
 	//頂点AからB、頂点AからCへのベクトル
 	Vector3 ab = Subtract(b, a);
